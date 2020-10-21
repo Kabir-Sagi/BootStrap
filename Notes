@@ -4,4 +4,116 @@ BootStrap
     
     set of classes 
      classes: it contains some set of properties of css
-     
+
+     Cards 
+     =====
+      card 
+      card-header 
+      card-body 
+      card-footer 
+      card-title
+
+     Typography 
+     ==========
+
+     display
+     .......
+     display-1
+     display-2
+     display-3
+     display-4
+
+     h 
+     ..
+       h1 to h6
+
+       style 
+       .....
+
+       lead 
+       text muted
+
+       font-weight-bold 
+       font-weight-normal 
+       font-italic
+       text-uppercase 
+       text-lowercase 
+       text-capitalise 
+
+       text-primary 
+       text-secondary 
+       text-warning 
+       text-danger 
+       text-dark
+       text-success 
+       text-info
+      text-white
+       text-center 
+       
+
+       margin
+       m-0 to m-5
+
+       padding
+       p-0 to p-5
+
+       alert 
+       =====
+       alert 
+       alert-primary,secondary,info,success,light,dark,white,warning,danger 
+       alert-link 
+       alert-dismissible
+       data-dismise in button
+  
+
+       Badge 
+       =====
+        badge 
+        badge-primary,secondary,info,success,light,dark,white,warning,danger 
+        badge-pill
+        rounded-circle
+
+        breadcrumb 
+        brreadcrumb-item 
+
+        list-group 
+        ========== 
+        list-group 
+        list-group-item 
+        list-group-item-action
+        list-group-item-Primary to danger 
+        list-group-horizontal
+
+
+     Forms 
+     =====
+        form-group 
+        form-control 
+
+        form-check-label 
+        form-check-input 
+        form-check-inline
+
+        disabled 
+        readonly 
+
+        input-group 
+        ========= 
+        input-group 
+        input-group-prepend 
+        input-group-append 
+        input-group-text
+
+        Progress 
+        ........
+           progress 
+           progress-bar 
+
+       Table 
+       .....
+         table 
+         table-hover 
+         table-dark,primary success white light etc 
+         table-bordered 
+         table-borderedless 
+         table-striped 
