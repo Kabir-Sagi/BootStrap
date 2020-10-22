@@ -111,9 +111,71 @@ BootStrap
 
        Table 
        .....
+
          table 
          table-hover 
          table-dark,primary success white light etc 
          table-bordered 
          table-borderedless 
          table-striped 
+         
+         spinner
+         .......
+
+         spinner-bordered 
+         spinner-grow 
+         spinner-bordered-sm,md,lg 
+         spinner-grow-sm,md,lg
+
+         pagination 
+         ..........
+
+             pagination 
+             page-item 
+             page-link 
+
+             pagination-sm
+             pagination-circle 
+             active
+
+             collapse & Accordian
+             .................... 
+
+             collapse 
+             Accordion 
+             data-toggle 
+             data-target 
+             data-parent
+
+             nav 
+             === 
+
+             navbar 
+             navbar-dark 
+             navbar-expand-sm,md,lg
+             collapse navbar-collapse
+             navbar-brand
+             navbar-nav 
+             nav-item 
+             nav-link
+
+             navbar-toggler 
+             navbar-toggler-icon
+
+             dropdown 
+             dropdown-menu 
+             dropdown-item 
+             data-target="<id>"
+             data-toggle ="collapse"
+             data-toggle ="dropdown"
+
+             Modal 
+             .....
+             modal
+             data-toggle="modal" 
+             modal-dialog 
+             modal-content 
+             moda-header 
+             modal-body 
+             modal-footer 
+             data-dismiss ="modal"
